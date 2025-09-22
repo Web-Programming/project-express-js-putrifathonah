@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Gaming",
+    "price": 15000000,
+    "description": "Laptop berperforme tinggi gacor"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Pro",
+    "price": 8500000,
+    "description": "HP flagship dengan kamera canggih"
+  },
+  {
+    "id": 3,
+    "name": "Headphone Wireless",
+    "price": 1250000,
+    "description": "Headphone bluetooth dengan bass mantap"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 2500000,
+    "description": "Jam tangan pintar dengan sensor kesehatan"
+  },
+  {
+    "id": 5,
+    "name": "Tablet Stylus",
+    "price": 6000000,
+    "description": "Tablet cocok untuk desain grafis"
+  },
+  {
+    "id": 6,
+    "name": "Keyboard Mechanical",
+    "price": 950000,
+    "description": "Keyboard gaming RGB dengan switch tactile"
+  },
+  {
+    "id": 7,
+    "name": "Mouse Gaming",
+    "price": 700000,
+    "description": "Mouse gaming dengan DPI tinggi"
+  },
+  {
+    "id": 8,
+    "name": "Monitor 27 Inch",
+    "price": 3200000,
+    "description": "Monitor Full HD refresh rate 144Hz"
+  },
+  {
+    "id": 9,
+    "name": "Printer All-in-One",
+    "price": 2800000,
+    "description": "Printer dengan fungsi scan dan fotokopi"
+  },
+  {
+    "id": 10,
+    "name": "Speaker Bluetooth",
+    "price": 1200000,
+    "description": "Speaker portable dengan suara jernih"
+  },
+  {
+    "id": 11,
+    "name": "External Hard Disk 1TB",
+    "price": 1100000,
+    "description": "Penyimpanan eksternal berkecepatan tinggi"
+  },
+  {
+    "id": 12,
+    "name": "Flashdisk 64GB",
+    "price": 150000,
+    "description": "Flashdisk USB 3.0 cepat dan praktis"
+  },
+  {
+    "id": 13,
+    "name": "Powerbank 20000mAh",
+    "price": 350000,
+    "description": "Powerbank kapasitas besar fast charging"
+  },
+  {
+    "id": 14,
+    "name": "Kamera Mirrorless",
+    "price": 9000000,
+    "description": "Kamera ringan dengan hasil foto profesional"
+  },
+  {
+    "id": 15,
+    "name": "Drone Kamera",
+    "price": 5500000,
+    "description": "Drone dengan kamera 4K dan GPS"
+  },
+  {
+    "id": 16,
+    "name": "Smart TV 43 Inch",
+    "price": 4800000,
+    "description": "Smart TV dengan aplikasi bawaan Netflix"
+  },
+  {
+    "id": 17,
+    "name": "Router WiFi 6",
+    "price": 1600000,
+    "description": "Router cepat untuk gaming dan streaming"
+  },
+  {
+    "id": 18,
+    "name": "Projector Mini",
+    "price": 2100000,
+    "description": "Proyektor portabel cocok untuk presentasi"
+  },
+  {
+    "id": 19,
+    "name": "Webcam HD",
+    "price": 650000,
+    "description": "Webcam 1080p untuk meeting online"
+  },
+  {
+    "id": 20,
+    "name": "Microphone Condenser",
+    "price": 1250000,
+    "description": "Mic kualitas studio untuk podcast"
+  }
+]

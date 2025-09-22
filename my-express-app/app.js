@@ -18,9 +18,15 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
+//serving bootstrap
+app.use('/bootstrap', express.static(path.join(__dirname,'node_modules/bootstrap/dist')));
 
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
+
+app.get('/', (req, res) =>{
+  res.render('index', {title: 'Halaman Home'});
+});
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
