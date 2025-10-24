@@ -26,10 +26,9 @@ content-type: application/json
 }
 
 ### Detail User (Replace with actual user ID)
-GET http://localhost:3000/api/user/68f21203dc9df00aa4cfaf94
-
+GET http://localhost:3000/api/user/68f600f1b3c939be79880610
 ### Update User (Replace with actual user ID)
-PUT http://localhost:3000/api/user/68f21203dc9df00aa4cfaf94
+PUT http://localhost:3000/api/user/68f600f1b3c939be79880610
 content-type: application/json
 
 {

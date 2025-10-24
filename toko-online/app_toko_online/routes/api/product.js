@@ -3,14 +3,14 @@ const router = express.Router();
 const productController = require("../../controllers/product");
 
 function requireJson(req, res, next) {
-  // periksa apakah content type adalah application/json
-  if (req.header["content-type"] !== "application/json") {
-    return res.status(406).josn({
-      status: false,
-      message: 'Header "Content-Type" harus "express.application/json".'
+  // Periksa apakah Content-Type adalah application/json
+  if (req.headers["content-type"] !== "application/json") {
+    return res.status(406).json({
+      success: false,
+      message: 'Header "Content-Type" harus "application/json".',
     });
   }
-  next(); // lanjutkan ke router handler
+  next(); // Lanjutkan ke route handler
 }
 //url create - POST (/api/produk)
 router.post("/", requireJson, productController.create);
